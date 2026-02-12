@@ -55,7 +55,7 @@ pip install scapy
 Desde la máquina atacante (Kali Linux):
 
 ```bash
-sudo python3 starvation.py -i ens3
+sudo python3 starvation.py 
 ```
 
 ---
