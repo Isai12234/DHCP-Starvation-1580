@@ -31,9 +31,11 @@ Red utilizada:
 
 ### Direccionamiento 
 
-Default gateway 10.15.80.0
-PC Kali Linux 10.15.80.3
-PC Window 10.15.80.2
+- Default gateway 10.15.80.0
+- PC Kali Linux 10.15.80.3
+- PC Window 10.15.80.2
+
+  ---
 
 ### Diagrama de Topología
 ![Diagrama de Topología](Topologia.png)
