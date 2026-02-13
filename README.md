@@ -1,7 +1,7 @@
 # DHCP Starvation Attack – Scapy
 
 ## 👨‍🎓 Autor
-Nombre: Juan Isai Casado De Oleo  
+Nombre: Juan isai Casado De Oleo  
 Matrícula: 2024-1580  
 
 ---
